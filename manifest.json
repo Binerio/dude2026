@@ -1,0 +1,11 @@
+{
+    "name": "FakeMessages",
+    "description": "Send local (only-you-see) fake messages with a custom user ID, content, and timestamp. Includes a full settings UI.",
+    "authors": [
+        {
+            "name": "You",
+            "id": "000000000000000000"
+        }
+    ],
+    "main": "index.js"
+}
